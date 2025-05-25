@@ -1,6 +1,6 @@
 <h2> Hi, I'm Anish Suman! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" style="border-radius: 12px">
-<p><em>Software Enginner Student at <a href="http://www.unb.br">Rishihood University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Frontend Developer at <a href="https://www.metascifor.com/">Meta Scifor Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Frontend Developer at <a href="https://www.metascifor.com/">Meta Scifor Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Ani_s_h?style=social)](https://x.com/Ani_s_h)
