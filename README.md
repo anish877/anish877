@@ -31,5 +31,5 @@ const anish = {
     decentralizedBanking: "https://github.com/anish877/D-Bank",
     customDnsServer: "https://github.com/anish877/dns-server"
   },
-  challenge: "Currently enhancing Ambuvian’s tech stack with scalable full-stack architecture."
+  challenge: "Currently building a global state management library to simplify app-wide reactivity."
 }
