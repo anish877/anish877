@@ -2,7 +2,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" style="border-radius: 12px">
 
 <p><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
-Full-Stack Developer at <a href="https://ambuvians.in/">Ambuvian Healthcare</a> & Freelancer on <a href="https://www.upwork.com/freelancers/~01e5fae8e33e9f2bb3">Upwork</a> 
+Full-Stack Developer at <a href="https://girlpowertalk.com">Girl Power Talk on <a href="https://www.upwork.com/freelancers/~01e5fae8e33e9f2bb3">Upwork</a> 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 [![Twitter: Ani_s_h](https://img.shields.io/twitter/follow/Ani_s_h?style=social)](https://x.com/Ani_s_h)
