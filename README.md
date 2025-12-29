@@ -1,5 +1,5 @@
 # :dizzy: About Me:
-:telescope: Co-Founder of CodeCraftStudios<br>:book: I am currently learning Devops and Web3<br>:speech_bubble: Come to me if you want our agency to achieve your tech dream<br>:star:️ Fun Fact - I am Lazy
+:telescope: Co-Founder of RelicWave Technologies<br>:book: I am currently learning Devops and Web3<br>:speech_bubble: Come to me if you want our agency to achieve your tech dream<br>:star:️ Fun Fact - I am Lazy
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/aniiiiiiiii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishsuman2305@gmail.com)
 # :computer: Tech Stack:
