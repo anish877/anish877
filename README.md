@@ -1,2 +1,1 @@
-# :dizzy: About Me:
-shush
+indeed
